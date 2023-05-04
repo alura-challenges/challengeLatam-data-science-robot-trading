@@ -17,7 +17,7 @@
 
 ## 📫 Publicación
 
-¿Cómo incluir mi proyecto con el "#" del desafío?
+### ¿Cómo incluir mi proyecto con el "#" del desafío?
 
 - Ten el Fork del proyecto en tu repositorio en Github.
 - Utiliza el topico ChallengeAluraRobotTrading
