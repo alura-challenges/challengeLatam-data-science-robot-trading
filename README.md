@@ -19,9 +19,9 @@
 
 ### ¿Cómo incluir mi proyecto con el "#" del desafío?
 
-- Ten el Fork del proyecto en tu repositorio en Github.
-- Utiliza el topico ChallengeAluraRobotTrading
-- Ve a la pestaña derecha de tu proyecto y haz clic en el engranaje de configuración en la sección About, selecciona el campo topics e insiere la etiqueta aluraChallengeRobotTrading
+- Ten el Fork del proyecto en tu repositorio en Github;
+- Utiliza el topico aluraChallengeRobotTrading;
+- Ve a la pestaña derecha de tu proyecto y haz clic en el engranaje de configuración en la sección About, selecciona el campo topics e insiere la etiqueta aluraChallengeRobotTrading.
 
 ## 💡 ¿Cómo hago la entrega final de mi Proyecto?
 
